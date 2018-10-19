@@ -1,0 +1,22 @@
+{
+  "name": "oswald-webfont",
+  "version": "0.0.1",
+  "description": "NPM package for the Oswald font",
+  "main": "oswald.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/majnikov/oswald-webfont.git"
+  },
+  "keywords": [
+    "oswald",
+    "font",
+    "webfont",
+    "css"
+  ],
+  "author": "Maksim Mazhnikov",
+  "license": "MIT AND OFL-1.1",
+  "bugs": {
+    "url": "https://github.com/majnikov/oswald-webfont/issues"
+  },
+  "homepage": "https://fonts.google.com/specimen/Oswald"
+}
